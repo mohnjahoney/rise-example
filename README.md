@@ -8,4 +8,4 @@ Ideally get widgets working.
 
 Launch on Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mohnjahoney/rise_example/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mohnjahoney/rise_example/master)
